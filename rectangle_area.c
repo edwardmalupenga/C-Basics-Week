@@ -11,10 +11,4 @@ int main() {
     scanf("%f", &width);
 
     // Calculating the Area
-    area = length * width;
-
-    // Display the Area
-    printf("Area of rectangle: %.2f\n", area);
-
-    return 0;
-}
+    
